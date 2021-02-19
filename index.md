@@ -3,7 +3,7 @@
 
 ### Delegate and Earn With Us
 
-## Visit our homepage at https://earnestpool.com/
+## <a href="https://earnestpool.com/"> Visit our homepage at https://earnestpool.com/ </a>
 
 # We are looking forward for you to stake with us!
 
