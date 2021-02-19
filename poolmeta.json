@@ -3,6 +3,6 @@
 	"ticker": "ERNST",
 	"homepage": "https://earnestpool.com",
 	"description": "Earnest Stake Pool",
-	"extended": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json"
+	"extended": "https://earnestpool.github.io/extended.json"
 }
  
