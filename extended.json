@@ -6,7 +6,17 @@
         "social": {
             "twitter_handle": "PoolEarnest",
             "youtube_handle": "CS_Vlad",
-            "github_handle": "EarnestPool"  
+            "github_handle": "EarnestPool" 
+         },
+        "company": {
+            "name": "Earnest Stake Pool",
+            "city": "Montreal",
+            "country": "Canada"
+        },
+        "about": {
+            "me": "One of us is McGill Computer Science final year student with a Masters in Linguistics and Translation and another stake pool owner is an aspiring Engineer!",
+            "server": "Running three servers that have all of the recommended processing power ",
+            "company": "McGill University, Concordia University in Montreal!"
          }
     }
 }
