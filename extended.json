@@ -3,5 +3,10 @@
         "url_png_icon_64x64": "https://earnestpool.github.io/EarnestPool.png",
         "url_png_logo": "https://earnestpool.github.io/EarnestPool.png",
         "location": "Montreal, Canada"
-    }
+         "social": {
+            "twitter_handle": "PoolEarnest",
+            "youtube_handle": "CS_Vlad",
+            "github_handle": "EarnestPool"  
+         }
+     }
 }
