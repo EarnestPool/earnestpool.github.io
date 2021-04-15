@@ -3,7 +3,7 @@
 
 ### Delegate and Earn With Us
 
-## <a href="https://earnestpool.com/"> Visit our homepage at https://earnestpool.com/ </a>
+## <a href="https://earnestpool.com/"> Visit our homepage </a>
 
 # We are looking forward for you to stake with us!
 
@@ -13,4 +13,4 @@
 
 
 
-## <a href="EarnestPool/Jpego/jpego.html"> Sneak Peek at Jpego </a>
+## <a href="https://github.com/EarnestPool/Jpego/jpego.html"> Sneak Peek at Jpego </a>
