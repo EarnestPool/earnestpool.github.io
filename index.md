@@ -13,4 +13,4 @@
 
 
 
-## <a href="earnestpool.github.io/jpego.html"> Sneak Peek at Jpego </a>
+## <a href="jpego.html"> Sneak Peek at Jpego </a>
